@@ -574,7 +574,7 @@ BEGIN
     
     IF DELETING THEN    
         UPDATE Kho SET SLTon = SLTon + :old.SoLuong WHERE Kho.ID_NL = :old.ID_NL;
-    END IF;
+    END IF;.s
 END;
 /
 --Trigger khi them mot Nguyen Lieu moi, them NL do vao Kho
