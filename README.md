@@ -13,14 +13,6 @@ Nhà hàng là một phần không thể thiếu trong đời sống con ngườ
 ## Mục tiêu của đề tài
 Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghiệp, linh hoạt, có thể quản lý và lưu trữ được một lượng dữ liệu lớn. Hệ thống giúp người dùng dễ dàng hơn trong việc tổ chức, quản lý dữ liệu Khách hàng, quản lý Đặt bàn, quản lý Thực đơn,… và nhiều hơn thế nữa.
 
-## Nhóm Thực Hiện : The Dreamers
-
-| MSSV | Họ tên   | Facebook | Đánh giá %               |
-| :-------- | :------- | :------------------------- |:-------|
-| 21522791 | Nguyễn Hoàng Việt |[Nguyễn Hoàng Việt](https://www.facebook.com/NgyenHoangViet) |100|
-|21520400 | Nguyễn Hoàng Phúc |[Nguyễn Hoàng Phúc](https://www.facebook.com/hoangphucseiza) |100|
-| 21520190 | Hồ Quang Đỉnh |[Quang Đỉnh](https://www.facebook.com/wuangding) |100|
-| 21520245 | Lê Thị Ánh Hồng	 |[Ánh Hồng](https://www.facebook.com/anhhong8323) |100|
  
 
 ## Mô hình ERD
@@ -55,7 +47,7 @@ Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghi�
 ----------------
 >* Đăng Ký
 
-![SignUp](./src/Demo/SignUp.png)
+
 
 >* Đăng Nhập
 
@@ -69,11 +61,11 @@ Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghi�
 
 >* About Us
 
-![AboutUs](./src/Demo/Customer/AboutUs.png)
+
 
 >* Thông Tin Cá Nhân
 
-![Profile](./src/Demo/Customer/Profile.png)
+
 
 -  Admin:
 ----------------
@@ -106,13 +98,14 @@ Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghi�
 > * **Bước 1:** Clone project [Java_Project_RestaurantMS](https://github.com/VietNguyen2003-UIT/Java_Project_RestaurantMS)
 > * **Bước 2:** Vào Netbeans chọn Open project và mở project vừa clone về.
 > * **Bước 3:** Thêm tất cả các thư viện cần thiết trong mục src/External_Library.
-> * **Bước 4:** Trong src/DataBase có file Database.sql. Tiến hành vào Oracle tạo user mới với Username là `Doan` và Password là `123`, sau đó chạy toàn bộ file Database.sql.
+> * **Bước 4:** Trong src/DataBase có file Database.sql. Tiến hành vào Oracle tạo user mới với Username là `PHU` và Password là `123`, sau đó chạy toàn bộ file Database.sql.
 > * **Bước 5:** Tiến hành chạy run file src/RTDRestaurant/View/Main_Frame/Main_LoginAndRegister.java để chạy chương trình
->* ***Note:** Xem file hướng dẫn cài đặt dưới đây để hiểu rõ thêm: [File hướng dẫn chi tiết](https://docs.google.com/document/d/10h0v1Bf-x-AGbSoLZw1hegSK2QQK_oClz71aKmKWJ04/edit?usp=sharing)*
+
 
 ## Tài liệu tham khảo
 
  - [Java Swing UI Design - Register and Verify Code With Email](https://github.com/DJ-Raven/java-swing-login-ui-001)
  - [Java Swing UI Design - School Management Dashboard](https://github.com/DJ-Raven/java-swing-school-management-dashboard)
  - [Java UI Design - Dashboard Desktop Application](https://github.com/DJ-Raven/java-ui-dashboard-008)
+
 
