@@ -2,9 +2,7 @@
 
 ![Logo](./src/Icons/logo_register.png)
 
-## Lời cảm ơn
 
-Lời đầu tiên, nhóm The Deamers xin gửi lời cảm ơn trân trọng nhất đến Thầy **Mai Xuân Hùng** – giảng viên môn Lập trình Java đã tận tình giúp đỡ, trực tiếp chỉ bảo, với sự hướng dẫn và những ý kiến quý báu của thầy đã giúp nhóm chúng em hoàn thành được đồ án môn học của mình một cách hoàn thiện.
 
 ## Giới thiệu đồ án
 
@@ -107,5 +105,6 @@ Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghi�
  - [Java Swing UI Design - Register and Verify Code With Email](https://github.com/DJ-Raven/java-swing-login-ui-001)
  - [Java Swing UI Design - School Management Dashboard](https://github.com/DJ-Raven/java-swing-school-management-dashboard)
  - [Java UI Design - Dashboard Desktop Application](https://github.com/DJ-Raven/java-ui-dashboard-008)
+
 
 
